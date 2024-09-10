@@ -1,5 +1,4 @@
 <h1>👋 Hello, I'm Sagar Dholariya</h1>
-## 
 
 <h2> <b>🚀 Founder & CEO of Zenithfusion Technology</b> </h2>
 
