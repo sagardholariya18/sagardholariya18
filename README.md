@@ -2,7 +2,7 @@
 ## <h2>🚀 **Founder & CEO of Zenithfusion Technology**</h2>
 
 I am a Python developer with a passion for technology, constantly innovating in the fields of web development, app development, and cloud services. I strive to deliver high-quality solutions for businesses looking to scale and grow in a tech-driven world.
-## <h2>🛠 Technologies I Work With</h2>
+<h2>🛠 Technologies I Work With</h2>
 
 HTML | CSS | JavaScript | jQuery | Next JS | Express JS | Vue JS | Python | Java | Flutter | Android | React Native | React JS | Node JS | Django | Flask | Firebase | AWS | GCP | MySQL | MongoDB
 ## <h2>🌐 Connect with Me</h2>
