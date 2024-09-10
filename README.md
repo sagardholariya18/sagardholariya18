@@ -1,7 +1,8 @@
 <h1>👋 Hello, I'm Sagar Dholariya</h1>
-<h2> <b>🚀 Founder & CEO of Zenithfusion Technology</b> </h2>
 
-I am a Python developer with a passion for technology, constantly innovating in the fields of web development, app development, and cloud services. I strive to deliver high-quality solutions for businesses looking to scale and grow in a tech-driven world.
+<h2> <b>🚀 Founder & CEO of Zenithfusion Technology</b> </h2>
+<p align="left">I am a Python developer with a passion for technology, constantly innovating in the fields of web development, app development, and cloud services. I strive to deliver high-quality solutions for businesses looking to scale and grow in a tech-driven world.
+</p>
 <h2> <b>🛠 Technologies I Work With</b> </h2>
 
 HTML | CSS | JavaScript | jQuery | Next JS | Express JS | Vue JS | Python | Java | Flutter | Android | React Native | React JS | Node JS | Django | Flask | Firebase | AWS | GCP | MySQL | MongoDB
