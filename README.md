@@ -7,8 +7,9 @@ I am a Python developer with a passion for technology, constantly innovating in 
 HTML | CSS | JavaScript | jQuery | Next JS | Express JS | Vue JS | Python | Java | Flutter | Android | React Native | React JS | Node JS | Django | Flask | Firebase | AWS | GCP | MySQL | MongoDB
 ## <h2>🌐 Connect with Me</h2>
 
-![LinkedIn](https://linkedin.com/in/sagar-dholariya)  
-![X](https://x.com/SAGARDHOLARIYA2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/sagar-dholariya)  
+[![X](https://img.shields.io/badge/X-Follow-lightgrey)](https://x.com/SAGARDHOLARIYA2)
+
 ## <h2>🏆 Certifications</h2>
 
 - **Flutter Competition** - Adajan, Surat
