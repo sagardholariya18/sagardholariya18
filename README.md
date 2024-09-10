@@ -7,6 +7,7 @@
 HTML | CSS | JavaScript | jQuery | Next JS | Express JS | Vue JS | Python | Java | Flutter | Android | React Native | React JS | Node JS | Django | Flask | Firebase | AWS | GCP | MySQL | MongoDB
 
 <h2> <b>🌐 Connect with Me</b> </h2>
+<img src="https://linkedin.com/in/sagar-dholariya" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?" style="for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/sagar-dholariya)  
 [![X](https://img.shields.io/badge/X-Follow-lightgrey)](https://x.com/SAGARDHOLARIYA2)
 
